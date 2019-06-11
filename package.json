@@ -1,0 +1,41 @@
+{
+  "name": "fubang",
+  "version": "1.0.0",
+  "description": "My tremendous Nuxt.js project",
+  "author": "shipeijing",
+  "private": true,
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "port": "3000"
+    }
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.4.1",
+    "axios": "^0.18.0",
+    "cross-env": "^5.2.0",
+    "css-loader": "^2.1.1",
+    "element-ui": "^2.4.11",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.4.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "sass-resources-loader": "^2.0.0",
+    "style-loader": "^0.23.1",
+    "v-distpicker": "^1.2.1",
+    "vshare": "^2.0.0",
+    "vue-amap": "^0.5.9",
+    "vue-social-sharing": "^2.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
