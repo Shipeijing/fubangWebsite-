@@ -24,7 +24,7 @@
     "element-ui": "^2.4.11",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "nuxt": "^2.4.0",
     "postcss-loader": "^3.0.0",
     "sass-loader": "^7.1.0",
